@@ -1,3 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@200&family=Oswald:wght@300&display=swap');
+
+main section img{
+  box-sizing: border-box;
+}
+
+.card-img{
+  border: 10px black;
+}
+  
+
+.rivers-card, .camping-card, .rapids-card{
+  margin: 200px 0;
+}
+
+#logo_link{   
+padding-top: 5px;
+}
+.msg p{
+  padding-bottom: 15px;
+  font-size: 8em;
+}
+footer .social img{
+  padding-top: 15px;
+}
+
+.home-title{
+  font-family:"roboto", ;
+  font-size: 2em;
+  margin-top: 200px;
+}
+
+.msg h2{
+  font-family:"roboto", ;
+}
 #content {
     max-width: 1600;
     margin: 0 auto;
@@ -5,6 +40,7 @@
 nav a{
    text-align: center;
    text-decoration: none;
+   padding: 35px;
 }
   
 #hero-msg h1, #hero-msg h4{
@@ -37,6 +73,10 @@ nav a:hover {
 .book, .join{
   background-color:white ;
   text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px; 
 }
 
 .book:hover, .join:hover{
@@ -49,10 +89,15 @@ nav a:hover {
 
 .msg{
   background-color:white ;
+  line-height: 1.5em;
+  padding: 35px;  
+  
 }
 
 footer{
   background-color: burlywood;
+  padding: 25px 50px;
+  margin-top: 200px;
 }
 /* end of background colors */
 .logo{
@@ -60,6 +105,7 @@ footer{
 }
 .icon {
   width: 80px;
+  padding-top: 10px;
 }
 #hero-img{
   width: 100%;
@@ -73,6 +119,18 @@ footer p {
 footer p a:hover {
   text-decoration: underline;
 }    
+
+body {
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  margin: 0;
+}
+
          
 
 

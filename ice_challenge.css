@@ -3,11 +3,17 @@ body {
     
 }
 body {
-    background-color: #f01f94;size: 82px; ;
+    background-color: rgb(236, 113, 133);size: 82px; ;
     
 }
 
+p{
+    color: white;
+}
+#first{
+    color: white;
 
+}
 
 
 
