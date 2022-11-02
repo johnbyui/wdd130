@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@200&family=Oswald:wght@300&display=swap');
 
+
+
+#background{
+  display: grid;
+}
+
+.camping-card{
+  display: grid;
+}
+
+.home-grid{
+  display: grid;
+}
+
 .card-img:hover {
   opacity: .6;
   transform: scale(1.1);
