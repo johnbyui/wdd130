@@ -1,8 +1,6 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
-@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@200&family=Oswald:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@200&family=Oswald:wght@300&family=Roboto:ital,wght@1,300&display=swap');
 :root {
   /* change the values below to your colors from your palette */
@@ -65,7 +63,7 @@ header > h1, header > h2 {
 
 p {
   font-family: var(--paragraph-font);
-  color: var(--paragraph-color-on-color);
+  color: var(--paragraph-color-on-white);
   padding: 1em;
 }
 .colors {
